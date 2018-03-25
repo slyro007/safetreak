@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">uvaHacks</string>
+    <string name="btn_safetrek">Sign into Safetrek</string>
+    <string name="btn_school">School</string>
+</resources>
